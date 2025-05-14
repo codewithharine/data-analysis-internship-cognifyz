@@ -56,6 +56,6 @@ You can open each notebook in **Google Colab**:
 
 ---
 
-## 📎 Folder Structure
+
 
 
